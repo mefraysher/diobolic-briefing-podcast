@@ -7,7 +7,7 @@
     <description>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</description>
     <language>en-us</language>
     <copyright>2026 Dio-Bolic Studios</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 07:03:33 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 07:06:39 -0400</lastBuildDate>
     <itunes:author>Dio-Bolic Studios</itunes:author>
     <itunes:summary>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,17 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-
+    <item>
+      <title>Studio Briefing - Monday, Oct 19</title>
+      <itunes:title>Studio Briefing - Monday, Oct 19</itunes:title>
+      <description>First, the items that need your attention. Number one. The King Street Number One display on Big Bad Toy Store still shows an estimated arrival of October twenty twenty six. It's listed as a pre-order at one hundred thirty four dollars and ninety nine cents, and October has twelve days left. If the units won't reach Big Bad Toy Store this month, check with them about updating the estimate before pre-order customers start asking. Number two. There are no new fee, policy, or deadline changes from Etsy, Kickstarter, BackerKit, or Shopify. The only deadline this week is the Shopify return...</description>
+      <itunes:summary>First, the items that need your attention. Number one. The King Street Number One display on Big Bad Toy Store still shows an estimated arrival of October twenty twenty six. It's listed as a pre-order at one hundred thirty four dollars and ninety nine cents, and October has twelve days left. If the units won't reach Big Bad Toy Store this month, check with them about updating the estimate before pre-order customers start asking. Number two. There are no new fee, policy, or deadline changes from Etsy, Kickstarter, BackerKit, or Shopify. The only deadline this week is the Shopify return...</itunes:summary>
+      <enclosure url="https://mefraysher.github.io/diobolic-briefing-podcast/episodes/2026-10-19.mp3" length="1411491" type="audio/mpeg"/>
+      <guid isPermaLink="false">diobolic-briefing-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 07:00:00 -0400</pubDate>
+      <itunes:duration>00:02:56</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
