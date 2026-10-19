@@ -39,7 +39,7 @@ def tts(text_file, out_mp3, voice):
     edge = os.path.join(VENV_BIN, "edge-tts")
     if not os.path.exists(edge):
         edge = shutil.which("edge-tts")
-    for attempt in range(3):
+    for attempt in range(4):
         try:
             raw = os.path.join(tmp, "raw.mp3")
             run([edge, "--voice", voice, "--file", text_file, "--write-media", raw],
@@ -48,7 +48,10 @@ def tts(text_file, out_mp3, voice):
                 engine = f"edge-tts:{voice}"
                 break
         except Exception as e:  # noqa
-            print(f"edge-tts attempt {attempt + 1} failed: {e}", file=sys.stderr)
+            err = getattr(e, "stderr", b"") or b""
+            print(f"edge-tts attempt {attempt + 1} failed: {err.decode(errors='replace')[-300:] or e}",
+                  file=sys.stderr)
+            import time; time.sleep(5)
         raw = None
     if raw is None:
         piper = os.path.join(VENV_BIN, "piper")
