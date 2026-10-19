@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dio-Bolic Daily Briefing</title>
+    <link>https://mefraysher.github.io/diobolic-briefing-podcast/</link>
+    <atom:link href="https://mefraysher.github.io/diobolic-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</description>
+    <language>en-us</language>
+    <copyright>2026 Dio-Bolic Studios</copyright>
+    <lastBuildDate>Mon, 19 Oct 2026 07:03:33 -0400</lastBuildDate>
+    <itunes:author>Dio-Bolic Studios</itunes:author>
+    <itunes:summary>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://mefraysher.github.io/diobolic-briefing-podcast/cover.jpg"/>
+    <image>
+      <url>https://mefraysher.github.io/diobolic-briefing-podcast/cover.jpg</url>
+      <title>Dio-Bolic Daily Briefing</title>
+      <link>https://mefraysher.github.io/diobolic-briefing-podcast/</link>
+    </image>
+    <itunes:category text="News">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:category text="Business"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+
+  </channel>
+</rss>

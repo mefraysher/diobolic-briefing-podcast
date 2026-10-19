@@ -1,0 +1,6 @@
+.venv/
+.piper/
+scripts/
+make_cover.py
+*.tmp.mp3
+__pycache__/
