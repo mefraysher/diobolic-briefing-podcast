@@ -7,7 +7,7 @@
     <description>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</description>
     <language>en-us</language>
     <copyright>2026 Dio-Bolic Studios</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 07:06:39 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 07:41:53 -0400</lastBuildDate>
     <itunes:author>Dio-Bolic Studios</itunes:author>
     <itunes:summary>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,18 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Studio Briefing - Tuesday, Oct 20</title>
+      <itunes:title>Studio Briefing - Tuesday, Oct 20</itunes:title>
+      <description>First, the items that need your attention. Number one. The King Street Number One display on Big Bad Toy Store still shows an estimated arrival of October twenty twenty six, and October now has eleven days left. This is still open from yesterday. If the units won't reach Big Bad Toy Store this month, the estimate should be updated before pre-order customers start asking. Number two. There are no new fee, policy, or deadline changes from Etsy, Shopify, Kickstarter, or BackerKit since yesterday. Now the signals. Tesla filed its proxy for the December third annual meeting, and Electrek reads...</description>
+      <itunes:summary>First, the items that need your attention. Number one. The King Street Number One display on Big Bad Toy Store still shows an estimated arrival of October twenty twenty six, and October now has eleven days left. This is still open from yesterday. If the units won't reach Big Bad Toy Store this month, the estimate should be updated before pre-order customers start asking. Number two. There are no new fee, policy, or deadline changes from Etsy, Shopify, Kickstarter, or BackerKit since yesterday. Now the signals. Tesla filed its proxy for the December third annual meeting, and Electrek reads...</itunes:summary>
+      <enclosure url="https://mefraysher.github.io/diobolic-briefing-podcast/episodes/2026-10-20.mp3" length="923732" type="audio/mpeg"/>
+      <guid isPermaLink="false">diobolic-briefing-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 -0400</pubDate>
+      <itunes:duration>00:01:55</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Studio Briefing - Monday, Oct 19</title>
       <itunes:title>Studio Briefing - Monday, Oct 19</itunes:title>
