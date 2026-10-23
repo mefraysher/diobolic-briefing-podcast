@@ -7,7 +7,7 @@
     <description>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</description>
     <language>en-us</language>
     <copyright>2026 Dio-Bolic Studios</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 07:34:10 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:37:49 -0400</lastBuildDate>
     <itunes:author>Dio-Bolic Studios</itunes:author>
     <itunes:summary>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,18 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Studio Briefing - Friday, Oct 23</title>
+      <itunes:title>Studio Briefing - Friday, Oct 23</itunes:title>
+      <description>Two things need you today. First, Etsy tightened its rules on AI and listing photos yesterday. Most listings now need at least one completely unedited photo of the real item on a real background. That one photo can't be cropped, resized, brightened, or have its background changed. Your other photos can still be edited, even with AI, as long as they show what the buyer actually gets. Listings made by bots with no human involvement are banned, AI use still has to be disclosed, and if a listing doesn't meet the photo rules and a buyer says the item wasn't as described, you may have to refund...</description>
+      <itunes:summary>Two things need you today. First, Etsy tightened its rules on AI and listing photos yesterday. Most listings now need at least one completely unedited photo of the real item on a real background. That one photo can't be cropped, resized, brightened, or have its background changed. Your other photos can still be edited, even with AI, as long as they show what the buyer actually gets. Listings made by bots with no human involvement are banned, AI use still has to be disclosed, and if a listing doesn't meet the photo rules and a buyer says the item wasn't as described, you may have to refund...</itunes:summary>
+      <enclosure url="https://mefraysher.github.io/diobolic-briefing-podcast/episodes/2026-10-23.mp3" length="959259" type="audio/mpeg"/>
+      <guid isPermaLink="false">diobolic-briefing-2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 07:00:00 -0400</pubDate>
+      <itunes:duration>00:02:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Studio Briefing - Thursday, Oct 22</title>
       <itunes:title>Studio Briefing - Thursday, Oct 22</itunes:title>
