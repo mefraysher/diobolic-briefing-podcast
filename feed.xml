@@ -7,7 +7,7 @@
     <description>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</description>
     <language>en-us</language>
     <copyright>2026 Dio-Bolic Studios</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 07:37:49 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 07:42:54 -0400</lastBuildDate>
     <itunes:author>Dio-Bolic Studios</itunes:author>
     <itunes:summary>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,18 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Studio Briefing - Friday, Oct 30</title>
+      <itunes:title>Studio Briefing - Friday, Oct 30</itunes:title>
+      <description>One thing needs you today. October ends tomorrow, and both Dio-Bolic preorders at Big Bad Toy Store, the King Street display and the Wall X D bundle, still say they're estimated to arrive in October. The Wall X D bundle page also still calls it part of the Mythic X D line. Once the month turns over, preorder buyers will be looking at a missed date, so a quick note to the store with a corrected arrival estimate and the line name fix is the one action for today. Now a few signals. First, a direct competitor. Toys Nest just opened preorders at Big Bad Toy Store for two one-twelfth scale American...</description>
+      <itunes:summary>One thing needs you today. October ends tomorrow, and both Dio-Bolic preorders at Big Bad Toy Store, the King Street display and the Wall X D bundle, still say they're estimated to arrive in October. The Wall X D bundle page also still calls it part of the Mythic X D line. Once the month turns over, preorder buyers will be looking at a missed date, so a quick note to the store with a corrected arrival estimate and the line name fix is the one action for today. Now a few signals. First, a direct competitor. Toys Nest just opened preorders at Big Bad Toy Store for two one-twelfth scale American...</itunes:summary>
+      <enclosure url="https://mefraysher.github.io/diobolic-briefing-podcast/episodes/2026-10-30.mp3" length="1063958" type="audio/mpeg"/>
+      <guid isPermaLink="false">diobolic-briefing-2026-10-30</guid>
+      <pubDate>Fri, 30 Oct 2026 07:00:00 -0400</pubDate>
+      <itunes:duration>00:02:13</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Studio Briefing - Friday, Oct 23</title>
       <itunes:title>Studio Briefing - Friday, Oct 23</itunes:title>
