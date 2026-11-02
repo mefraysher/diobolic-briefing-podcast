@@ -7,7 +7,7 @@
     <description>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</description>
     <language>en-us</language>
     <copyright>2026 Dio-Bolic Studios</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 07:42:54 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 07:34:58 -0500</lastBuildDate>
     <itunes:author>Dio-Bolic Studios</itunes:author>
     <itunes:summary>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,18 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Studio Briefing - Monday, Nov 2</title>
+      <itunes:title>Studio Briefing - Monday, Nov 2</itunes:title>
+      <description>One thing needs you today. Big Bad Toy Store moved both Dio-Bolic preorders, the King Street display and the Wall X D bundle, to an estimated arrival of November, so the missed October date is handled for now. But the Wall X D bundle page still says it's part of the Mythic X D line, and it still carries the crowdfunding disclaimer. A short note to the store fixing the line name, and checking that November is realistic for both, is still the one open action. Now a few signals. First, competition. The Toys Nest American street sets have a preorder deadline of November tenth at one retailer, and...</description>
+      <itunes:summary>One thing needs you today. Big Bad Toy Store moved both Dio-Bolic preorders, the King Street display and the Wall X D bundle, to an estimated arrival of November, so the missed October date is handled for now. But the Wall X D bundle page still says it's part of the Mythic X D line, and it still carries the crowdfunding disclaimer. A short note to the store fixing the line name, and checking that November is realistic for both, is still the one open action. Now a few signals. First, competition. The Toys Nest American street sets have a preorder deadline of November tenth at one retailer, and...</itunes:summary>
+      <enclosure url="https://mefraysher.github.io/diobolic-briefing-podcast/episodes/2026-11-02.mp3" length="1035327" type="audio/mpeg"/>
+      <guid isPermaLink="false">diobolic-briefing-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 07:00:00 -0500</pubDate>
+      <itunes:duration>00:02:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Studio Briefing - Friday, Oct 30</title>
       <itunes:title>Studio Briefing - Friday, Oct 30</itunes:title>
