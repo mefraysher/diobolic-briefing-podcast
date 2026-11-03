@@ -7,7 +7,7 @@
     <description>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</description>
     <language>en-us</language>
     <copyright>2026 Dio-Bolic Studios</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 07:34:58 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 07:35:07 -0500</lastBuildDate>
     <itunes:author>Dio-Bolic Studios</itunes:author>
     <itunes:summary>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,18 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Studio Briefing - Tuesday, Nov 3</title>
+      <itunes:title>Studio Briefing - Tuesday, Nov 3</itunes:title>
+      <description>One thing still needs you. The Big Bad Toy Store page for the Wall XD Bundle hasn't changed since yesterday. It still says it's part of the Mythic XD line, and it still carries the crowdfunding disclaimer. Both preorders show November arrival. A short note to fix the line name and confirm November is realistic is still the one open action. Nobody has been contacted yet. Now a few signals. On AI tools, Meshy added a new retexture model that paints a model from one to four reference photos. Meshy is also retiring its old low poly model at the end of November. I checked, and the model pipeline...</description>
+      <itunes:summary>One thing still needs you. The Big Bad Toy Store page for the Wall XD Bundle hasn't changed since yesterday. It still says it's part of the Mythic XD line, and it still carries the crowdfunding disclaimer. Both preorders show November arrival. A short note to fix the line name and confirm November is realistic is still the one open action. Nobody has been contacted yet. Now a few signals. On AI tools, Meshy added a new retexture model that paints a model from one to four reference photos. Meshy is also retiring its old low poly model at the end of November. I checked, and the model pipeline...</itunes:summary>
+      <enclosure url="https://mefraysher.github.io/diobolic-briefing-podcast/episodes/2026-11-03.mp3" length="732516" type="audio/mpeg"/>
+      <guid isPermaLink="false">diobolic-briefing-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 07:00:00 -0500</pubDate>
+      <itunes:duration>00:01:32</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Studio Briefing - Monday, Nov 2</title>
       <itunes:title>Studio Briefing - Monday, Nov 2</itunes:title>
