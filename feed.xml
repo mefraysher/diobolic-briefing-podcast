@@ -7,7 +7,7 @@
     <description>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</description>
     <language>en-us</language>
     <copyright>2026 Dio-Bolic Studios</copyright>
-    <lastBuildDate>Tue, 03 Nov 2026 07:35:07 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 07:35:31 -0500</lastBuildDate>
     <itunes:author>Dio-Bolic Studios</itunes:author>
     <itunes:summary>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,18 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Studio Briefing - Wednesday, Nov 4</title>
+      <itunes:title>Studio Briefing - Wednesday, Nov 4</itunes:title>
+      <description>One thing still needs you. The Big Bad Toy Store page for the Wall X D Bundle hasn't changed. It still says it's part of the Mythic X D line, it still carries the crowdfund disclaimer, and it still estimates arrival this month. A short note to them to fix the line name and confirm that November is realistic is still the open action, whenever you're ready. Now a few signals. The usage limits on Grok Bot were tightened on purpose. Over Halloween weekend some people's weekly meters jumped straight to the cap, and Musk said the cost of serving it was unsustainably high compared to revenue. No new...</description>
+      <itunes:summary>One thing still needs you. The Big Bad Toy Store page for the Wall X D Bundle hasn't changed. It still says it's part of the Mythic X D line, it still carries the crowdfund disclaimer, and it still estimates arrival this month. A short note to them to fix the line name and confirm that November is realistic is still the open action, whenever you're ready. Now a few signals. The usage limits on Grok Bot were tightened on purpose. Over Halloween weekend some people's weekly meters jumped straight to the cap, and Musk said the cost of serving it was unsustainably high compared to revenue. No new...</itunes:summary>
+      <enclosure url="https://mefraysher.github.io/diobolic-briefing-podcast/episodes/2026-11-04.mp3" length="751742" type="audio/mpeg"/>
+      <guid isPermaLink="false">diobolic-briefing-2026-11-04</guid>
+      <pubDate>Wed, 04 Nov 2026 07:00:00 -0500</pubDate>
+      <itunes:duration>00:01:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Studio Briefing - Tuesday, Nov 3</title>
       <itunes:title>Studio Briefing - Tuesday, Nov 3</itunes:title>
