@@ -7,7 +7,7 @@
     <description>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</description>
     <language>en-us</language>
     <copyright>2026 Dio-Bolic Studios</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 07:35:31 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:35:07 -0500</lastBuildDate>
     <itunes:author>Dio-Bolic Studios</itunes:author>
     <itunes:summary>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,18 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Studio Briefing - Friday, Nov 6</title>
+      <itunes:title>Studio Briefing - Friday, Nov 6</itunes:title>
+      <description>Two things need you. First, the Big Bad Toy Store page for the Wall X D Bundle still hasn't changed. It still says Mythic X D, it still carries the crowdfund disclaimer, and it still estimates arrival this month. The short note to fix the line name and confirm November is still the open action whenever you're ready. Second, a competing one twelfth American street scene diorama has a preorder window that closes November 10th, four days from now. No action required unless you want a competitive look or a timing decision for Wall X D messaging. Now a few signals. After the midterms, Tesla and...</description>
+      <itunes:summary>Two things need you. First, the Big Bad Toy Store page for the Wall X D Bundle still hasn't changed. It still says Mythic X D, it still carries the crowdfund disclaimer, and it still estimates arrival this month. The short note to fix the line name and confirm November is still the open action whenever you're ready. Second, a competing one twelfth American street scene diorama has a preorder window that closes November 10th, four days from now. No action required unless you want a competitive look or a timing decision for Wall X D messaging. Now a few signals. After the midterms, Tesla and...</itunes:summary>
+      <enclosure url="https://mefraysher.github.io/diobolic-briefing-podcast/episodes/2026-11-06.mp3" length="788940" type="audio/mpeg"/>
+      <guid isPermaLink="false">diobolic-briefing-2026-11-06</guid>
+      <pubDate>Fri, 06 Nov 2026 07:00:00 -0500</pubDate>
+      <itunes:duration>00:01:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Studio Briefing - Wednesday, Nov 4</title>
       <itunes:title>Studio Briefing - Wednesday, Nov 4</itunes:title>
