@@ -7,7 +7,7 @@
     <description>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</description>
     <language>en-us</language>
     <copyright>2026 Dio-Bolic Studios</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 07:35:07 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:43:03 -0500</lastBuildDate>
     <itunes:author>Dio-Bolic Studios</itunes:author>
     <itunes:summary>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,18 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Studio Briefing - Monday, Nov 9</title>
+      <itunes:title>Studio Briefing - Monday, Nov 9</itunes:title>
+      <description>Two things need you today. First, the Big Bad Toy Store page for the Wall XD Bundle still hasn't changed. It still says it's part of the Mythic XD line, it still carries the crowdfund disclaimer, and it still says it arrives in November. We're a third of the way through November now, so the short note to the store, fixing the line name and confirming or moving the arrival estimate, is still the one open action. The King Street page also still says November. Second, just so it's on your radar, the competing one twelve American street scene preorder closes tomorrow, November tenth. Nothing to...</description>
+      <itunes:summary>Two things need you today. First, the Big Bad Toy Store page for the Wall XD Bundle still hasn't changed. It still says it's part of the Mythic XD line, it still carries the crowdfund disclaimer, and it still says it arrives in November. We're a third of the way through November now, so the short note to the store, fixing the line name and confirming or moving the arrival estimate, is still the one open action. The King Street page also still says November. Second, just so it's on your radar, the competing one twelve American street scene preorder closes tomorrow, November tenth. Nothing to...</itunes:summary>
+      <enclosure url="https://mefraysher.github.io/diobolic-briefing-podcast/episodes/2026-11-09.mp3" length="1009623" type="audio/mpeg"/>
+      <guid isPermaLink="false">diobolic-briefing-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 07:00:00 -0500</pubDate>
+      <itunes:duration>00:02:06</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Studio Briefing - Friday, Nov 6</title>
       <itunes:title>Studio Briefing - Friday, Nov 6</itunes:title>
