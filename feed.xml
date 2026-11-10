@@ -7,7 +7,7 @@
     <description>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</description>
     <language>en-us</language>
     <copyright>2026 Dio-Bolic Studios</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 07:43:03 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 07:29:08 -0500</lastBuildDate>
     <itunes:author>Dio-Bolic Studios</itunes:author>
     <itunes:summary>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,18 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Studio Briefing - Tuesday, Nov 10</title>
+      <itunes:title>Studio Briefing - Tuesday, Nov 10</itunes:title>
+      <description>Two things need you today. First, Etsy walked back some bad advice. Last Friday it told sellers in the Cyber Specials sale to message past buyers through Etsy Messages about upcoming discounts. Yesterday it said that was wrong, because unsolicited promotions in Messages break Etsy's own policy, and its spam system can mute a shop's messaging for two days. So if anyone sent promo messages to past buyers on Etsy, stop there, and promote the sale through the shop announcement, Instagram, and the email list instead. Second, the Wall X D Bundle page at Big Bad Toy Store still hasn't changed. It...</description>
+      <itunes:summary>Two things need you today. First, Etsy walked back some bad advice. Last Friday it told sellers in the Cyber Specials sale to message past buyers through Etsy Messages about upcoming discounts. Yesterday it said that was wrong, because unsolicited promotions in Messages break Etsy's own policy, and its spam system can mute a shop's messaging for two days. So if anyone sent promo messages to past buyers on Etsy, stop there, and promote the sale through the shop announcement, Instagram, and the email list instead. Second, the Wall X D Bundle page at Big Bad Toy Store still hasn't changed. It...</itunes:summary>
+      <enclosure url="https://mefraysher.github.io/diobolic-briefing-podcast/episodes/2026-11-10.mp3" length="798554" type="audio/mpeg"/>
+      <guid isPermaLink="false">diobolic-briefing-2026-11-10</guid>
+      <pubDate>Tue, 10 Nov 2026 07:00:00 -0500</pubDate>
+      <itunes:duration>00:01:40</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Studio Briefing - Monday, Nov 9</title>
       <itunes:title>Studio Briefing - Monday, Nov 9</itunes:title>
