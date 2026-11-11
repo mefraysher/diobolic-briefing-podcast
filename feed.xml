@@ -7,7 +7,7 @@
     <description>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</description>
     <language>en-us</language>
     <copyright>2026 Dio-Bolic Studios</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 07:29:08 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 07:28:40 -0500</lastBuildDate>
     <itunes:author>Dio-Bolic Studios</itunes:author>
     <itunes:summary>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,18 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Studio Briefing - Wednesday, Nov 11</title>
+      <itunes:title>Studio Briefing - Wednesday, Nov 11</itunes:title>
+      <description>Two things need you today. First, Kickstarter launched an official Shopify app this morning. It moves finished pledge manager orders straight into a Shopify store for fulfillment and sends tracking back to Kickstarter. It's free for creators using the pledge manager, but it needs matching product codes between your rewards and your Shopify products, and backers get two days to confirm their addresses before orders move over. If the Wall XD crowdfund ships through the Kickstarter pledge manager, this could save you the spreadsheet shuffle. Nothing has been installed or changed. Second, the Big...</description>
+      <itunes:summary>Two things need you today. First, Kickstarter launched an official Shopify app this morning. It moves finished pledge manager orders straight into a Shopify store for fulfillment and sends tracking back to Kickstarter. It's free for creators using the pledge manager, but it needs matching product codes between your rewards and your Shopify products, and backers get two days to confirm their addresses before orders move over. If the Wall XD crowdfund ships through the Kickstarter pledge manager, this could save you the spreadsheet shuffle. Nothing has been installed or changed. Second, the Big...</itunes:summary>
+      <enclosure url="https://mefraysher.github.io/diobolic-briefing-podcast/episodes/2026-11-11.mp3" length="839514" type="audio/mpeg"/>
+      <guid isPermaLink="false">diobolic-briefing-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 07:00:00 -0500</pubDate>
+      <itunes:duration>00:01:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Studio Briefing - Tuesday, Nov 10</title>
       <itunes:title>Studio Briefing - Tuesday, Nov 10</itunes:title>
