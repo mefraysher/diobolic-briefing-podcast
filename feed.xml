@@ -7,7 +7,7 @@
     <description>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</description>
     <language>en-us</language>
     <copyright>2026 Dio-Bolic Studios</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 07:28:40 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 07:30:40 -0500</lastBuildDate>
     <itunes:author>Dio-Bolic Studios</itunes:author>
     <itunes:summary>Weekday studio news briefing for Dio-Bolic Studios: Tesla, SpaceX and xAI, AI tools, manufacturing, collectibles, crowdfunding and e-commerce.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,18 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Studio Briefing - Friday, Nov 13</title>
+      <itunes:title>Studio Briefing - Friday, Nov 13</itunes:title>
+      <description>Two things need you today. First, Shopify is ending its automated sales tax filing. It will file returns for sales only through the end of December, with the last returns due in January. After that, you either file yourself using the Shopify Tax reports, which keep working at no extra cost, hand it to a tax pro, or use a filing service. Shopify names two services with switching promotions. You can download your old filing records until the end of April. This only matters if the Shopify store is signed up for automated filing, and I don't know whether it is, so it's worth a quick look and a...</description>
+      <itunes:summary>Two things need you today. First, Shopify is ending its automated sales tax filing. It will file returns for sales only through the end of December, with the last returns due in January. After that, you either file yourself using the Shopify Tax reports, which keep working at no extra cost, hand it to a tax pro, or use a filing service. Shopify names two services with switching promotions. You can download your old filing records until the end of April. This only matters if the Shopify store is signed up for automated filing, and I don't know whether it is, so it's worth a quick look and a...</itunes:summary>
+      <enclosure url="https://mefraysher.github.io/diobolic-briefing-podcast/episodes/2026-11-13.mp3" length="850380" type="audio/mpeg"/>
+      <guid isPermaLink="false">diobolic-briefing-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 07:00:00 -0500</pubDate>
+      <itunes:duration>00:01:46</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Studio Briefing - Wednesday, Nov 11</title>
       <itunes:title>Studio Briefing - Wednesday, Nov 11</itunes:title>
